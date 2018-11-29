@@ -1,0 +1,24 @@
+
+@media screen and (max-width: 767px) {
+    body {
+        background-image: none;
+        background-color: rgba(58, 94, 46,.3);
+    }
+    #col-gap {
+        display: none;
+    }
+
+    #empty {
+        display: none;
+    }
+
+    figcaption {
+        width: 40vw;
+    }
+
+    #row-title-welcome {
+        text-align: center;
+    }
+
+    
+}
